@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(165, 183, 204);
+}
+
+.container {
+  padding: 20px;
+  background-color: blueviolet;
+}
+
+.search-form {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input {
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 50px;
+  padding-left: 10px;
+  outline: thin;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 4px;
+  background-color: rgb(211, 211, 211);
+}
