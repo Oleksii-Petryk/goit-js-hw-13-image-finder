@@ -1,4 +1,5 @@
-export const refs = {
+export default {
     form: document.querySelector('#search-form'),
-    container: document.querySelector('.container'),
-}
+    gallery: document.querySelector('.gallery'),
+    tracking: document.querySelector('.tracked-box'),
+};
